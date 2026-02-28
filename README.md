@@ -1,4 +1,4 @@
-# 🛍️📊 Mall Customer Segmentation using K-Means Clustering
+# 🛍️ Mall Customer Segmentation using K-Means Clustering
 
 ![Banner](images/banner.png)
 
